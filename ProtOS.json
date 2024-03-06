@@ -1,8 +1,8 @@
 {
-  "title": "ProtOS",
-  "description": "test description",
+  "title": "Protagonist Object Show",
+  "description": "Serial object show comic with a protagonist.",
   "artist": "Satomi",
-  "author": "",
+  "author": "Satomi",
   "cover": "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-01.png",
   "chapters": {
     "1": {
@@ -22,8 +22,7 @@
           "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-09.png",
           "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-10.png",
           "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-11.png",
-          "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-12.png",
-          ""
+          "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-12.png"
         ]
       }
     }
