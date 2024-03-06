@@ -11,6 +11,7 @@
       "last_updated": "1709235480",
       "groups": {
         "": [
+          "https://pixequil.github.io/prot-os/black.png",
           "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-01.png",
           "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-02.png",
           "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-03.png",
@@ -22,7 +23,8 @@
           "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-09.png",
           "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-10.png",
           "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-11.png",
-          "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-12.png"
+          "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-12.png",
+          "https://pixequil.github.io/prot-os/black.png"
         ]
       }
     }
