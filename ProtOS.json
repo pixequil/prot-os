@@ -46,6 +46,27 @@
           "https://raw.githubusercontent.com/pixequil/prot-os/main/ch02/Prot-OS-2-0012.png"
         ]
       }
+    },
+    "3": {
+      "title": "Lampy Keeps it Clean",
+      "volume": "",
+      "last_updated": "1710392411",
+      "groups": {
+        "": [
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch03/Prot-OS-3-0001.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch03/Prot-OS-3-0002.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch03/Prot-OS-3-0003.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch03/Prot-OS-3-0004.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch03/Prot-OS-3-0005.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch03/Prot-OS-3-0006.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch03/Prot-OS-3-0007.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch03/Prot-OS-3-0008.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch03/Prot-OS-3-0009.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch03/Prot-OS-3-0010.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch03/Prot-OS-3-0011.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch03/Prot-OS-3-0012.png"
+        ]
+      }
     }
   }
 }
