@@ -67,6 +67,27 @@
           "https://raw.githubusercontent.com/pixequil/prot-os/main/ch03/Prot-OS-3-0012.png"
         ]
       }
+    },
+    "4": {
+      "title": "Lampy's Choice",
+      "volume": "",
+      "last_updated": "1711000704",
+      "groups": {
+        "": [
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch04/Prot-OS-4-0001.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch04/Prot-OS-4-0002.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch04/Prot-OS-4-0003.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch04/Prot-OS-4-0004.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch04/Prot-OS-4-0005.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch04/Prot-OS-4-0006.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch04/Prot-OS-4-0007.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch04/Prot-OS-4-0008.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch04/Prot-OS-4-0009.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch04/Prot-OS-4-0010.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch04/Prot-OS-4-0011.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch04/Prot-OS-4-0012.png"
+        ]
+      }
     }
   }
 }
