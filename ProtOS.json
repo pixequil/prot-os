@@ -109,6 +109,27 @@
           "https://raw.githubusercontent.com/pixequil/prot-os/main/ch05/Prot-OS-5-0012.png"
         ]
       }
+    },
+    "6": {
+      "title": "Lampy Prevents Utter Catastrophe",
+      "volume": "",
+      "last_updated": "1712200912",
+      "groups": {
+        "": [
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch06/Prot-OS-6-0001.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch06/Prot-OS-6-0002.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch06/Prot-OS-6-0003.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch06/Prot-OS-6-0004.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch06/Prot-OS-6-0005.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch06/Prot-OS-6-0006.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch06/Prot-OS-6-0007.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch06/Prot-OS-6-0008.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch06/Prot-OS-6-0009.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch06/Prot-OS-6-0010.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch06/Prot-OS-6-0011.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch06/Prot-OS-6-0012.png"
+        ]
+      }
     }
   }
 }
