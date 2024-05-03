@@ -3,7 +3,7 @@
   "description": "aka ProtOS",
   "artist": "Satomi",
   "author": "Satomi",
-  "cover": "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-01.png",
+  "cover": "https://raw.githubusercontent.com/pixequil/prot-os/main/ch10/Prot-OS-10-0001.png",
   "chapters": {
     "1": {
       "title": "Introducing Lampy",
