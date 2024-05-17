@@ -214,6 +214,27 @@
           "https://raw.githubusercontent.com/pixequil/prot-os/main/ch10/Prot-OS-10-0012.png"
         ]
       }
+    },
+    "11": {
+      "title": "Lampy vs. Sticky",
+      "volume": "",
+      "last_updated": "1715924737",
+      "groups": {
+        "": [
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch11/Prot-OS-11-0001.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch11/Prot-OS-11-0002.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch11/Prot-OS-11-0003.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch11/Prot-OS-11-0004.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch11/Prot-OS-11-0005.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch11/Prot-OS-11-0006.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch11/Prot-OS-11-0007.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch11/Prot-OS-11-0008.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch11/Prot-OS-11-0009.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch11/Prot-OS-11-0010.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch11/Prot-OS-11-0011.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch11/Prot-OS-11-0012.png"
+        ]
+      }
     }
   }
 }
