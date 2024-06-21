@@ -277,6 +277,27 @@
           "https://raw.githubusercontent.com/pixequil/prot-os/main/ch13/Prot-OS-13-0012.png"
         ]
       }
+    },
+    "14": {
+      "title": "Lampy vs. Metro Card",
+      "volume": "",
+      "last_updated": "1718930248",
+      "groups": {
+        "": [
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch14/Prot-OS-14-0001.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch14/Prot-OS-14-0002.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch14/Prot-OS-14-0003.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch14/Prot-OS-14-0004.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch14/Prot-OS-14-0005.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch14/Prot-OS-14-0006.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch14/Prot-OS-14-0007.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch14/Prot-OS-14-0008.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch14/Prot-OS-14-0009.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch14/Prot-OS-14-0010.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch14/Prot-OS-14-0011.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch14/Prot-OS-14-0012.png"
+        ]
+      }
     }
   }
 }
