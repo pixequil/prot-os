@@ -361,6 +361,27 @@
           "https://raw.githubusercontent.com/pixequil/prot-os/main/ch17/Prot-OS-17-0012.png"
         ]
       }
+    },
+    "18": {
+      "title": "Welcome Back, Lampy!",
+      "volume": "",
+      "last_updated": "1751207800",
+      "groups": {
+        "": [
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch18/Prot-OS-18-0001.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch18/Prot-OS-18-0002.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch18/Prot-OS-18-0003.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch18/Prot-OS-18-0004.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch18/Prot-OS-18-0005.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch18/Prot-OS-18-0006.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch18/Prot-OS-18-0007.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch18/Prot-OS-18-0008.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch18/Prot-OS-18-0009.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch18/Prot-OS-18-0010.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch18/Prot-OS-18-0011.png",
+          "https://raw.githubusercontent.com/pixequil/prot-os/main/ch18/Prot-OS-18-0012.png"
+        ]
+      }
     }
   }
 }
